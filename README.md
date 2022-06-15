@@ -4,7 +4,7 @@ Audio Visualization with Python (Early Scoping)
 ## Quick Setup to Work on this Project
 1. Create venv/conda environment with `requirement.txt` and `environment.yaml` <br>
 - If you are using `pip` as your dependency manager: 
-  1. create a venv (python virtual environment) at desired location by running: `python3 -m venv [/path/to/new/virtual/environment]`
+  1. create a venv (python virtual environment) at desired location by running: `python3 -m venv /path/to/new/virtual/environment`
      1. For example, on windows: `c:\>python -m venv c:\path\to\myenv`
   2. make sure to activate that environment: 
      1. Bash: `$ source <venv>/bin/activate`
