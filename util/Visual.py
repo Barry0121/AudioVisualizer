@@ -13,6 +13,8 @@ from argparse import ArgumentError
 import cv2
 import os
 
+from numpy import disp
+
 
 def display_video_feed(source=0, gray=False):
     """
@@ -120,4 +122,6 @@ def save_video_feed(filename='output.avi', source=0, gray=False):
     cv2.destroyAllWindows()
 
     print('Video Saved!')
+
+
 
