@@ -15,3 +15,5 @@ Tools:
 Dataset:
 - MAESTRO dataset contains multiple MIDI files with numerous piano notes
 - We are using maestro-v2.0.0-midi.zip from [https://magenta.tensorflow.org/datasets/maestro#v200](link)
+
+Source Code: https://blog.paperspace.com/music-generation-with-lstms/
