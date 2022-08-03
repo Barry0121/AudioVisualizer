@@ -16,3 +16,5 @@ import pretty_midi
 from IPython import display
 import matplotlib.pyplot as plt
 import seaborn as sns
+
+# TODO: Compile the Jupyter Notebook script into python script; easier for autmating training and generation
